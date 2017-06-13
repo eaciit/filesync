@@ -1,0 +1,15 @@
+Bank Indonesia	BI	0	0	0	N	C4	0	N	B		N	Y	N	N	N	N	N		N	N	N	N	N	
+Karyawan Bank Jabar	BJ	2	7	103	N	C4	0	N	C		Y	Y	N	N	N	N	Y		N	N	N	N	N	
+Bank Koresponden	BK	2	7	103	N	C4	0	N	B		N	Y	N	N	N	N	N		N	N	N	N	N	
+Bank Umum	BN	2	7	103	N	C4	0	N	N		N	Y	N	N	N	N	N		N	N	N	N	N	
+Perusahaan	CO	2	7	103	N	C4	0	N	C		N	Y	N	N	N	N	Y		N	N	N	N	N	
+Pemerintah	GV	2	7	103	N	C4	0	N	C		N	Y	N	N	N	N	Y		N	N	N	N	N	
+Impersonal - Manual Open	IA	1	7	103	N	C4	1	N	C		N	N												
+Impersonal - Auto Open	IB	1	7	103	N	C4	3	N	C		N	N												
+Perorangan	IN	0	0	0	N	C4	0	N	C		Y	Y	N	N	N	N	Y		N	N	N	N	N	
+Lembaga Lainnya	OI	0	0	0	N	C4	0	N	C		N	Y	N	N	N	N	Y		N	N	N	N	N	
+Sandi Bank Kliring	SK	10	7	103	N	C4	0	N	N		N	N	N	N	N	N	N		N	N	N	N	N	
+PERSEDIAAN	ZA	0	0	0	N	C4	0	N	C		N	N	N	N	N	N	N		N	N	N	N	N	
+TITIPAN	ZB	0	0	0	N	C4	0	N	C		N	N	N	N	N	N	N		N	N	N	N	N	
+Remittance Agent	RA	0	0	0	N	C4	0	N	C		N	Y	N	N	N	N	N		N	N	N	N	N	N
+SUNDRY CUSTOMER TYPE	ZC	0	0	0	N	C4	0	N	C		N	N	N	N	N	N	N		N	N	N	N	N	N

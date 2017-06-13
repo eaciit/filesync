@@ -1,0 +1,8 @@
+{
+    "SenderPath":"/Users/ariefdarmawan/goapp/src/eaciit/filesync/upload",
+    "ReceiverPath":"/Users/ariefdarmawan/goapp/src/eaciit/filesync/download",
+    "RefreshRate":1000,
+    "SenderPort":8888,
+    "ReceiverPort":8889,
+    "ReceiverUri":"http://localhost:8889/?filename={0}"
+}
